@@ -1,5 +1,3 @@
-
-
 # 🚨 SafeSpace – Women Safety & Emergency Alert System
 
 *A MERN-Stack Emergency Response Platform with Real-Time SOS Alerts*
