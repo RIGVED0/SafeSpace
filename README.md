@@ -1,6 +1,4 @@
-Here is a **perfect, clean, professional README.md** for your **SafeSpace – Women Safety & Emergency Alert System** including all screenshots you provided (I inserted placeholder paths — you can replace them with GitHub image URLs after pushing).
 
----
 
 # 🚨 SafeSpace – Women Safety & Emergency Alert System
 
